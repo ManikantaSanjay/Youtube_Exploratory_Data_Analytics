@@ -5,7 +5,7 @@ i> Pandas
 
 ii> NumPy
 
-iii> Mathplotlib
+iii> Matplotlib
 
 iv> Seaborn
 
